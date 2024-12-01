@@ -9,7 +9,7 @@ The dataset used in this project is from Kaggle: [Vegetable Prices Dataset](http
 - **Date**: When the price was recorded.
 - **Vegetable**: Type of vegetable (e.g., Tomato, Potato, Onion, etc.).
 - **Price**: Price per unit (currency unspecified).
-- **Other Features**: Additional columns, if available, that provide contextual information.
+- **And Other Features**.
 
 ## Project Objectives
 
